@@ -1,5 +1,5 @@
 # 🤖 pymavlink_app
-*The rover control web application for the MCLB Rover (HAZ Bot Project) with Commodores Conyers College and Career Academy*  
+*The rover control web application for the Marine Corp Logistic Base Rover Project (HAZ Bot Project) with 6919 Commodores FIRST Robotics team*  
 *Built using Flask and Socket.IO*
 
 This application allows remote monitoring and control of the rover in real time, including mission uploading, telemetry display, and manual overrides via a clean web interface.
